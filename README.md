@@ -1,2 +1,2 @@
 # neofetch
-Neofetch configuration file
+neofetch configuration
